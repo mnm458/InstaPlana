@@ -1,0 +1,32 @@
+Return-Path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Delivered-To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Received: from p3plcpnl0820.prod.phx3.secureserver.net
+	by p3plcpnl0820.prod.phx3.secureserver.net with LMTP id YFgKM/ZS0lzpYAkAmmz+lw
+	for <hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net>; Tue, 07 May 2019 20:54:30 -0700
+Return-path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Envelope-to: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Delivery-date: Tue, 07 May 2019 20:54:30 -0700
+Received: from root by p3plcpnl0820.prod.phx3.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	id 1hODf4-002cOU-OI
+	for hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net; Tue, 07 May 2019 20:54:30 -0700
+To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Subject: [Installatron] WordPress theme Twenty Seventeen 2.2 now available
+Date: Tue, 7 May 2019 21:54:30 -0600
+From: noreply@p3plcpnl0820.prod.phx3.secureserver.net
+Message-ID: <6dadaaf89b55f51a097e3f4abef8bfca@p3plcpnl0820.prod.phx3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.44
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Twenty Seventeen 2.2 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://instaplana.com
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

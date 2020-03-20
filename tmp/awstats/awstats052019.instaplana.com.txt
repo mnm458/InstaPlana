@@ -1,0 +1,374 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/hhj3k25u3cs9/tmp/awstats/awstats.instaplana.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2688                
+POS_VISITOR 5769                
+POS_DAY 5886                
+POS_DOMAIN 3192                
+POS_LOGIN 3421                
+POS_ROBOT 3576                
+POS_WORMS 3708                
+POS_EMAILSENDER 3839                
+POS_EMAILRECEIVER 3982                
+POS_SESSION 6582                
+POS_SIDER 6729                
+POS_FILETYPES 4117                
+POS_DOWNLOADS 4200                
+POS_OS 4248                
+POS_BROWSER 4338                
+POS_SCREENSIZE 4420                
+POS_UNKNOWNREFERER 4494                
+POS_UNKNOWNREFERERBROWSER 4623                
+POS_ORIGIN 4747                
+POS_SEREFERRALS 4881                
+POS_PAGEREFS 5025                
+POS_SEARCHWORDS 5173                
+POS_KEYWORDS 5325                
+POS_MISC 2352                
+POS_ERRORS 5384                
+POS_CLUSTER 3277                
+POS_SIDER_404 5460                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190601014055 3 310 8106602352547
+FirstTime 20190501013950
+LastTime 20190531193823
+LastUpdate 20190601044425 3 0 2 0 0
+TotalVisits 58                  
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 62 62 208186 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 6 6 20771 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 2 2 6674 0 0 0
+12 0 0 0 0 0 0
+13 30 30 101587 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 16 16 53813 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 116 116 391031
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+php 116 391031 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+Unknown 58 58
+win7 58 58
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+firefox17.0 58 58
+Unknown 58 58
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Installatron_Plugin/9.1.44 20190531193822
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Installatron_Plugin/9.1.44 20190531193822
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 116 116
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1
+160.153.55.228 116 116 391031 20190531193823
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190501 4 4 12010 2
+20190502 2 2 6005 1
+20190503 4 4 12010 2
+20190504 2 2 6005 1
+20190505 6 6 18015 3
+20190506 4 4 12010 2
+20190507 4 4 12679 2
+20190508 8 8 26696 4
+20190509 4 4 13348 2
+20190510 4 4 13348 2
+20190511 2 2 6674 1
+20190512 2 2 6674 1
+20190513 2 2 6674 1
+20190514 2 2 6674 1
+20190515 6 6 20754 3
+20190516 6 6 20754 3
+20190517 4 4 13836 2
+20190518 2 2 6918 1
+20190519 2 2 6918 1
+20190520 4 4 13836 2
+20190521 2 2 6918 1
+20190522 4 4 13836 2
+20190523 4 4 13836 2
+20190524 2 2 6918 1
+20190525 2 2 7179 1
+20190526 2 2 7179 1
+20190527 6 6 21537 3
+20190528 6 6 21537 3
+20190529 6 6 21537 3
+20190530 4 4 14358 2
+20190531 4 4 14358 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 58
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 116
+/deleteme.chaylmik.php 1 2275 1 0
+/deleteme.chaff7ky.php 1 2275 1 0
+/deleteme.chal6wvx.php 1 2275 1 0
+/deleteme.wpk7qx.php 1 4904 0 1
+/deleteme.chadiss0.php 1 2275 1 0
+/deleteme.wpyyej.php 1 4399 0 1
+/deleteme.wppoep.php 1 4643 0 1
+/deleteme.wp8cfv.php 1 4643 0 1
+/deleteme.chatxnlb.php 1 2275 1 0
+/deleteme.chaax3wy.php 1 2275 1 0
+/deleteme.wpopoq.php 1 4904 0 1
+/deleteme.chal7swm.php 1 2275 1 0
+/deleteme.chautiq9.php 1 2275 1 0
+/deleteme.chaz7jou.php 1 2275 1 0
+/deleteme.chavaq5h.php 1 2275 1 0
+/deleteme.charnygy.php 1 2275 1 0
+/deleteme.chadcqih.php 1 2275 1 0
+/deleteme.chacfvck.php 1 2275 1 0
+/deleteme.chatb9do.php 1 2275 1 0
+/deleteme.chatddjy.php 1 2275 1 0
+/deleteme.wpwi9s.php 1 4643 0 1
+/deleteme.wppvlz.php 1 4643 0 1
+/deleteme.wpgih9.php 1 4643 0 1
+/deleteme.wp8csz.php 1 4904 0 1
+/deleteme.wpsclk.php 1 4643 0 1
+/deleteme.wpxks8.php 1 4399 0 1
+/deleteme.chapopfu.php 1 2275 1 0
+/deleteme.wpvjq4.php 1 4399 0 1
+/deleteme.wphw4j.php 1 3730 0 1
+/deleteme.wpfwgx.php 1 4399 0 1
+/deleteme.chadkije.php 1 2275 1 0
+/deleteme.wppt3n.php 1 3730 0 1
+/deleteme.wpxu27.php 1 4399 0 1
+/deleteme.cha5s3el.php 1 2275 1 0
+/deleteme.wpqlhr.php 1 4643 0 1
+/deleteme.wp794p.php 1 4904 0 1
+/deleteme.wpwbyd.php 1 4643 0 1
+/deleteme.chaz7xbj.php 1 2275 1 0
+/deleteme.chasbvah.php 1 2275 1 0
+/deleteme.chawam1x.php 1 2275 1 0
+/deleteme.cha0nr3a.php 1 2275 1 0
+/deleteme.wplpzd.php 1 4904 0 1
+/deleteme.wpsqcn.php 1 4643 0 1
+/deleteme.wpbtia.php 1 3730 0 1
+/deleteme.cha0zimd.php 1 2275 1 0
+/deleteme.chadbcyy.php 1 2275 1 0
+/deleteme.wpmhc7.php 1 4399 0 1
+/deleteme.chaakc1q.php 1 2275 1 0
+/deleteme.wprgst.php 1 4904 0 1
+/deleteme.chagviy5.php 1 2275 1 0
+/deleteme.chawy1oy.php 1 2275 1 0
+/deleteme.wpdv1z.php 1 4399 0 1
+/deleteme.wpe64p.php 1 3730 0 1
+/deleteme.wpl57u.php 1 4399 0 1
+/deleteme.wpofrj.php 1 3730 0 1
+/deleteme.chad8jwh.php 1 2275 1 0
+/deleteme.chauktg9.php 1 2275 1 0
+/deleteme.wpgh6g.php 1 4643 0 1
+/deleteme.cha1gtyy.php 1 2275 1 0
+/deleteme.chabuo2q.php 1 2275 1 0
+/deleteme.wpyn8s.php 1 4904 0 1
+/deleteme.chanpjnh.php 1 2275 1 0
+/deleteme.wpmqln.php 1 3730 0 1
+/deleteme.wpq2ns.php 1 4643 0 1
+/deleteme.chazc4mt.php 1 2275 1 0
+/deleteme.wpzmp6.php 1 4399 0 1
+/deleteme.wpspqu.php 1 4904 0 1
+/deleteme.chahcudd.php 1 2275 1 0
+/deleteme.wpwedt.php 1 4399 0 1
+/deleteme.wp1hbl.php 1 4643 0 1
+/deleteme.wpsnqh.php 1 4643 0 1
+/deleteme.wpr616.php 1 4904 0 1
+/deleteme.chaaff71.php 1 2275 1 0
+/deleteme.wpq6vt.php 1 3730 0 1
+/deleteme.cha51gic.php 1 2275 1 0
+/deleteme.cha2vuhq.php 1 2275 1 0
+/deleteme.chacy8jd.php 1 2275 1 0
+/deleteme.chamkghj.php 1 2275 1 0
+/deleteme.chaf4rfk.php 1 2275 1 0
+/deleteme.charqzgn.php 1 2275 1 0
+/deleteme.wpjgee.php 1 4904 0 1
+/deleteme.chaygrve.php 1 2275 1 0
+/deleteme.wp4ply.php 1 3730 0 1
+/deleteme.chaqdrw9.php 1 2275 1 0
+/deleteme.cha7gpo0.php 1 2275 1 0
+/deleteme.chavzufr.php 1 2275 1 0
+/deleteme.chasl5tl.php 1 2275 1 0
+/deleteme.wpy14i.php 1 3730 0 1
+/deleteme.wpeq0k.php 1 4399 0 1
+/deleteme.wpkmpf.php 1 4399 0 1
+/deleteme.chascvps.php 1 2275 1 0
+/deleteme.wpw9xp.php 1 4904 0 1
+/deleteme.wp0ep4.php 1 3730 0 1
+/deleteme.chaa7ku6.php 1 2275 1 0
+/deleteme.wpeb4n.php 1 4643 0 1
+/deleteme.chaensql.php 1 2275 1 0
+/deleteme.chaypopw.php 1 2275 1 0
+/deleteme.wp5lyy.php 1 3730 0 1
+/deleteme.wpceqo.php 1 4904 0 1
+/deleteme.wpqmdt.php 1 4643 0 1
+/deleteme.chatru0n.php 1 2275 1 0
+/deleteme.wpqk1o.php 1 4904 0 1
+/deleteme.chaldpsp.php 1 2275 1 0
+/deleteme.wppega.php 1 4643 0 1
+/deleteme.chaplqxz.php 1 2275 1 0
+/deleteme.chaxgrus.php 1 2275 1 0
+/deleteme.chazxrju.php 1 2275 1 0
+/deleteme.wpjcad.php 1 4399 0 1
+/deleteme.wpiwap.php 1 3730 0 1
+/deleteme.chaqerr9.php 1 2275 1 0
+/deleteme.chaulqxx.php 1 2275 1 0
+/deleteme.chafpenf.php 1 2275 1 0
+/deleteme.wpovnq.php 1 4643 0 1
+/deleteme.wpgmcg.php 1 4643 0 1
+/deleteme.wptclb.php 1 4904 0 1
+/deleteme.wphmql.php 1 4904 0 1
+END_SIDER

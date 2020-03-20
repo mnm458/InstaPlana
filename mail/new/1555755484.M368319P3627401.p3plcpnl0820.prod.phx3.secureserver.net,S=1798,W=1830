@@ -1,0 +1,32 @@
+Return-Path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Delivered-To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Received: from p3plcpnl0820.prod.phx3.secureserver.net
+	by p3plcpnl0820.prod.phx3.secureserver.net with LMTP id wBofFdzxulyJWTcAmmz+lw
+	for <hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net>; Sat, 20 Apr 2019 03:18:04 -0700
+Return-path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Envelope-to: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Delivery-date: Sat, 20 Apr 2019 03:18:04 -0700
+Received: from root by p3plcpnl0820.prod.phx3.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	id 1hHn4O-00FDfC-8O
+	for hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net; Sat, 20 Apr 2019 03:18:04 -0700
+To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Subject: [Installatron] WordPress plugin Limit Login Attempts Reloaded 2.7.4 now available
+Date: Sat, 20 Apr 2019 04:18:04 -0600
+From: noreply@p3plcpnl0820.prod.phx3.secureserver.net
+Message-ID: <13854792afd918921e02269f08e0695f@p3plcpnl0820.prod.phx3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.44
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Limit Login Attempts Reloaded 2.7.4 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://instaplana.com
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

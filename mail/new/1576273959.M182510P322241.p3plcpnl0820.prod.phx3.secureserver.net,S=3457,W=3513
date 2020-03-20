@@ -1,0 +1,56 @@
+Return-Path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Delivered-To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Received: from p3plcpnl0820.prod.phx3.secureserver.net
+	by p3plcpnl0820.prod.phx3.secureserver.net with LMTP
+	id SEoPCScI9F3B6gQAmmz+lw
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	for <hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net>; Fri, 13 Dec 2019 14:52:39 -0700
+Return-path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Envelope-to: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Delivery-date: Fri, 13 Dec 2019 14:52:39 -0700
+Received: from root by p3plcpnl0820.prod.phx3.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	id 1ifsrX-001N3y-1K
+	for hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net; Fri, 13 Dec 2019 14:52:39 -0700
+To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Subject: [Installatron] WordPress 5.3.1 now available (security release)
+Date: Fri, 13 Dec 2019 14:52:39 -0700
+From: noreply@p3plcpnl0820.prod.phx3.secureserver.net
+Message-ID: <26601fe750043b8a091c10beabe0fc0b@p3plcpnl0820.prod.phx3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.49
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.3.1 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://instaplana.com
+
+
+The changes for this version are:
+
+WordPress 5.3.1 security and maintenance release, featuring 46 bug fixes and enhancements plus a number of security fixes.
+
+Security
+* Fixed an issue where an unprivileged user could make a post sticky via the REST API.
+* Fixed an issue where cross-site scripting (XSS) could be stored in well-crafted links.
+* Hardened wp_kses_bad_protocol() to ensure that it is aware of the named colon attribute.
+* Fixed a stored XSS vulnerability using block editor content.
+
+Bug Fixes
+* Administration: improvements to admin form controls height and alignment standardization (see related dev note), dashboard widget links accessibility and alternate color scheme readability issues (see related dev note).
+* Block editor: fix Edge scrolling issues and intermittent JavaScript issues.
+* Bundled themes: add customizer option to show/hide author bio, replace JS based smooth scroll with CSS (see related dev note) and fix Instagram embed CSS.
+* Date/time: improve non-GMT dates calculation, fix date format output in specific languages and make get_permalink() more resilient against PHP timezone changes.
+* Embeds: remove CollegeHumor oEmbed provider as the service doesn’t exist anymore.
+* External libraries: update sodium_compat.
+* Site health: allow the remind interval for the admin email verification to be filtered.
+* Uploads: avoid thumbnails overwriting other uploads when filename matches, and exclude PNG images from scaling after upload.
+* Users: ensure administration email verification uses the user's locale instead of the site locale.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

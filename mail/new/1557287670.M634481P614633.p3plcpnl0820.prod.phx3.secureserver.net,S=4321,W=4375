@@ -1,0 +1,54 @@
+Return-Path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Delivered-To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Received: from p3plcpnl0820.prod.phx3.secureserver.net
+	by p3plcpnl0820.prod.phx3.secureserver.net with LMTP id wKoqJPZS0lzpYAkAmmz+lw
+	for <hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net>; Tue, 07 May 2019 20:54:30 -0700
+Return-path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Envelope-to: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Delivery-date: Tue, 07 May 2019 20:54:30 -0700
+Received: from root by p3plcpnl0820.prod.phx3.secureserver.net with local (Exim 4.91)
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	id 1hODf4-002cMr-Gz
+	for hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net; Tue, 07 May 2019 20:54:30 -0700
+To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Subject: [Installatron] WordPress 5.2 now available (major version)
+Date: Tue, 7 May 2019 21:54:30 -0600
+From: noreply@p3plcpnl0820.prod.phx3.secureserver.net
+Message-ID: <d2200145c4343440cdb34e61f2f12024@p3plcpnl0820.prod.phx3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.44
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.2 (major version) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://instaplana.com
+
+
+The changes for this version are:
+
+Version 5.2 of WordPress, named “Jaco” in honor of renowned and revolutionary jazz bassist Jaco Pastorius, is available for download or update in your WordPress dashboard. New features in this update make it easier than ever to fix your site if something goes wrong.
+
+There are even more robust tools for identifying and fixing configuration issues and fatal errors. Whether you are a developer helping clients or you manage your site solo, these tools can help get you the right information when you need it.
+
+Highlights
+* Site Health Check: Building on the Site Health features introduced in 5.1, this release adds two new pages to help debug common configuration issues. It also adds space where developers can include debugging information for site maintainers.
+* PHP Error Protection: This administrator-focused update will let you safely fix or manage fatal errors without requiring developer time. It features better handling of the so-called “white screen of death,” and a way to enter recovery mode,  which pauses error-causing plugins or themes.
+
+Improvements for Everyone
+* Accessibility Updates: A number of changes work together to improve contextual awareness and keyboard navigation flow for those using screen readers and other assistive technologies.
+* New Dashboard Icons: Thirteen new icons including Instagram, a suite of icons for BuddyPress, and rotated Earth icons for global inclusion. Find them in the Dashboard and have some fun!
+* Plugin Compatibility Checks: WordPress will now automatically determine if your site’s version of PHP is compatible with installed plugins. If the plugin requires a higher version of PHP than your site currently uses, WordPress will not allow you to activate it, preventing potential compatibility errors.
+
+Developer Happiness
+* PHP Version Bump: The minimum supported PHP version is now 5.6.20. As of WordPress 5.2*, themes and plugins can safely take advantage of namespaces, anonymous functions, and more!
+* Privacy Updates: A new theme page template, a conditional function, and two CSS classes make designing and customizing the Privacy Policy page easier.
+* New Body Hook: 5.2 introduces a wp_body_open hook, which lets themes support injecting code right at the beginning of the &lt;body&gt; element.
+* Building JavaScript: With the addition of webpack and Babel configurations in the wordpress/scripts package, developers won’t have to worry about setting up complex build tools to write modern JavaScript.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

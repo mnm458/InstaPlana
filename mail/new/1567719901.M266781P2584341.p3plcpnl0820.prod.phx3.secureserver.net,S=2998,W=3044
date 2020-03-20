@@ -1,0 +1,46 @@
+Return-Path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Delivered-To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Received: from p3plcpnl0820.prod.phx3.secureserver.net
+	by p3plcpnl0820.prod.phx3.secureserver.net with LMTP
+	id MD3TD92BcV0VbycAmmz+lw
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	for <hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net>; Thu, 05 Sep 2019 14:45:01 -0700
+Return-path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Envelope-to: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Delivery-date: Thu, 05 Sep 2019 14:45:01 -0700
+Received: from root by p3plcpnl0820.prod.phx3.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	id 1i5zYr-00Ar8t-6V
+	for hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net; Thu, 05 Sep 2019 14:45:01 -0700
+To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Subject: [Installatron] WordPress 5.1.2 now available (security release)
+Date: Thu, 5 Sep 2019 15:45:01 -0600
+From: noreply@p3plcpnl0820.prod.phx3.secureserver.net
+Message-ID: <1c1e515ff3b4d29844015e77866494aa@p3plcpnl0820.prod.phx3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.46
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.1.2 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://instaplana.com
+
+
+The changes for this version are:
+
+Security
+* Props to Simon Scannell of RIPS Technologies for finding and disclosing two issues. The first, a cross-site scripting (XSS) vulnerability found in post previews by contributors. The second was a cross-site scripting vulnerability in stored comments. 
+* Props to Tim Coen for disclosing an issue where validation and sanitization of a URL could lead to an open redirect. 
+* Props to Anshul Jain for disclosing reflected cross-site scripting during media uploads.
+* Props to Zhouyuan Yang of Fortinet’s FortiGuard Labs who disclosed a vulnerability for cross-site scripting (XSS) in shortcode previews.
+* Props to Ian Dunn of the Core Security Team for finding and disclosing a case where reflected cross-site scripting could be found in the dashboard.
+* Props to Soroush Dalili (@irsdl) from NCC Group for disclosing an issue with URL sanitization that can lead to cross-site scripting (XSS) attacks.
+* In addition to the above changes, we are also updating jQuery on older versions of WordPress. This change was added in 5.2.1 and is now being brought to older versions.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

@@ -1,0 +1,55 @@
+Return-Path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Delivered-To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Received: from p3plcpnl0820.prod.phx3.secureserver.net
+	by p3plcpnl0820.prod.phx3.secureserver.net with LMTP
+	id ECsuFJrMzF2PSQAAmmz+lw
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	for <hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net>; Wed, 13 Nov 2019 20:40:10 -0700
+Return-path: <noreply@p3plcpnl0820.prod.phx3.secureserver.net>
+Envelope-to: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Delivery-date: Wed, 13 Nov 2019 20:40:10 -0700
+Received: from root by p3plcpnl0820.prod.phx3.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@p3plcpnl0820.prod.phx3.secureserver.net>)
+	id 1iV5zO-00062k-7C
+	for hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net; Wed, 13 Nov 2019 20:40:10 -0700
+To: hhj3k25u3cs9@p3plcpnl0820.prod.phx3.secureserver.net
+Subject: [Installatron] WordPress 5.3 now available (major version)
+Date: Wed, 13 Nov 2019 20:40:10 -0700
+From: noreply@p3plcpnl0820.prod.phx3.secureserver.net
+Message-ID: <56aded50a15a516874dad72bcbabac5d@p3plcpnl0820.prod.phx3.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.48
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.3 (major version) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://instaplana.com
+
+
+The changes for this version are:
+
+WordPress 5.3 is a new major release.
+
+Highlights
+* PHP 7.4 Compatibility
+* 5.3 expands and refines the block editor with more intuitive interactions and improved accessibility.
+* This release also introduces the Twenty Twenty theme.
+* This enhancement-focused update introduces over 150 new features and usability improvements.
+* Accessibility improvements include the integration of block editor styles in the admin interface.
+* For people who use a keyboard to navigate the dashboard, the block editor now has a Navigation mode.
+* The new Group block lets you easily divide your page into colorful sections.
+* The Columns block now supports fixed column widths.
+* The new predefined layouts make it a cinch to arrange content into advanced designs.
+* Heading blocks now offer controls for text and background color.
+* Additional style options allow you to set your preferred style for any block that supports this feature.
+* Automatic Image Rotation.
+* Improved Site Health Checks.
+* Admin Email Verification.
+* Date/Time Component Fixes.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+
